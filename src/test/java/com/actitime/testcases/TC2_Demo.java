@@ -9,6 +9,5 @@ public class TC2_Demo
 	public void demo()
 	{
 		Reporter.log("demo", true);
-		Reporter.log("partha", true);
 	}
 }
